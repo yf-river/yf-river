@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm River</h1>
 <h3 align="center">Life Hacker · Lifelong Learner · Go Backend Developer · Blockchain</h3>
-<p align="center"><i>Building at Major League Hack | Optimizing life with systematic thinking</i></p>
+<p align="center"><i>Optimizing life with systematic thinking</i></p>
 
 - 🔭 I’m currently working **at Tencent** as a backend developer
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
